@@ -1,0 +1,7 @@
+base   changeloggingaction
+author Satoshi Sahara
+email  <sahara.satoshi@gmail.com>
+date   2021-11-26
+name   Configure Change Logging Action
+desc   Incorporate external edits of a page into next save.
+url    https://www.dokuwiki.org/plugin:changeloggingaction
